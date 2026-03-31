@@ -11,7 +11,7 @@ import Checkout from './pages/Checkout';
 
 function App() {
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       <AuthProvider>
         <CartProvider>
           <div className="min-h-screen flex flex-col relative w-full overflow-x-hidden">
