@@ -107,7 +107,6 @@ const fallbackProducts = [
   { id: 1, name: 'Silk Evening Gown', price: 1200, category: 'Women', image_url: 'https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?q=80&w=2942&auto=format&fit=crop' },
   { id: 2, name: 'Classic Wool Blazer', price: 850, category: 'Men', image_url: 'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?q=80&w=2800&auto=format&fit=crop' },
   { id: 3, name: 'Leather Crossbody Bag', price: 450, category: 'Accessories', image_url: 'https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=2938&auto=format&fit=crop' },
-  { id: 4, name: 'Cashmere Turtleneck', price: 600, category: 'Women', image_url: 'https://images.unsplash.com/photo-1614741369527-dc8051280fcb?q=80&w=2835&auto=format&fit=crop' },
   { id: 5, name: 'Chrono Dress Watch', price: 1500, category: 'Accessories', image_url: 'https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=2899&auto=format&fit=crop' },
   { id: 6, name: 'Tailored Trousers', price: 350, category: 'Men', image_url: 'https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?q=80&w=2808&auto=format&fit=crop' },
 ];
